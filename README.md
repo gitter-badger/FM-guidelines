@@ -1,5 +1,7 @@
 #Гайдлайны
 
+[![Join the chat at https://gitter.im/FMRobot/FM-guidelines](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FMRobot/FM-guidelines?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Выбор статьи для перевода
 
 Перед началом перевода проверяйте наличие существующих переводов.
